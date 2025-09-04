@@ -152,7 +152,7 @@ const styles = StyleSheet.create({
   },
   signupRow: {
     flexDirection: "row",
-    marginTop: 30,
+    marginTop: 100,
     alignItems: "center",
   },
   themeRow: { flexDirection: "row", marginTop: 30 },
